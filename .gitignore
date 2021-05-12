@@ -1,0 +1,16 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+*.Rprofile
+# RStudio files
+.Rproj.user/
+Data/
+# mac OS stuff
+.DS_Store
+.DS_Store?
+# python environment
+python/
+# ipynb checkpoints
+.ipynb_checkpoints
